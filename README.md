@@ -8,3 +8,5 @@ Controls.
 CIRCLE * close application
 
 
+Credit
+joel16 - brightness registry entry reference
