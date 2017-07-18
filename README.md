@@ -5,7 +5,7 @@ This application displays a green screen at max brightness.
 Your brightness settings will be saved and re applied on close of application.
 
 Controls.
-CIRCLE * close application
+TRIANGLE * close application
 
 
 Credit
