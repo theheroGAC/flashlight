@@ -50,7 +50,7 @@ bool programRun = true;
 
 int main() {
 	vita2d_init();
-	vita2d_set_clear_color(RGBA8(255, 255, 255, 255));
+	vita2d_set_clear_color(RGBA8(0, 255, 0, 255));
 	
 	Gamepad &gamepad = *Gamepad::getInstance();
 	
