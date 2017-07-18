@@ -70,7 +70,7 @@ int main() {
 		gamepad.update();
 		
 		// check for close
-		if (gamepad.checkPressed(SCE_CTRL_CIRCLE))
+		if (gamepad.checkPressed(SCE_CTRL_TRIANGLE))
 			programRun = false;
 		
 		vita2d_start_drawing();
